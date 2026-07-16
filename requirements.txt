@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+streamlit-hotkeys
+google-generativeai
+numpy
+matplotlib
+seaborn
+gseapy
+python-docx
+openpyxl
