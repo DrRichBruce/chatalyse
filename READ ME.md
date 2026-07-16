@@ -169,4 +169,5 @@ Interests:
   
 
 **Project Origins**
+
 CHATALYSE began as an attempt to reduce the friction between exploratory analysis and scientific communication. The project evolved from a simple analytical assistant into an interactive research environment capable of supporting data exploration, interpretation, and scientific reporting within a single workflow.
