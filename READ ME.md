@@ -15,73 +15,73 @@ The application was developed to reduce the administrative burden of research wh
 **Data Analysis**
 
 
-Upload and explore tabular datasets
+- Upload and explore tabular datasets
 
-Automatic dataset profiling
+- Automatic dataset profiling
 
-Statistical analysis support
+- Statistical analysis support
 
-Interactive data inspection
+- Interactive data inspection
 
 **Visualisation**
 
 
-Publication-style figures
+- Publication-style figures
 
-Customisable plots
+- Customisable plots
 
-Integrated visual analytics workflows
+- Integrated visual analytics workflows
 
 **Scientific Writing Support**
 
 
-Methods drafting assistance
+- Methods drafting assistance
 
-Results summarisation
+- Results summarisation
 
-Discussion generation
+- Discussion generation
 
-Structured scientific reporting
+- Structured scientific reporting
 
 **AI-Assisted Research Workflows**
 
-Conversational interface
+- Conversational interface
 
-Context-aware scientific guidance
+- Context-aware scientific guidance
 
-Research planning and exploration
+- Research planning and exploration
 
-Iterative hypothesis development
+- Iterative hypothesis development
 
 **Project Management**
 
 
-Persistent project storage
+- Persistent project storage
 
-Session snapshots
+- Session snapshots
 
-Version recovery
+- Version recovery
 
-Microsoft Word export
+- Microsoft Word export
 
 
 **Technology Stack**
 
-Python
+- Python
 
-Streamlit
+- Streamlit
 
-Google Gemini
+- Google Gemini
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-GSEApy
+- GSEApy
 
 
 **Installation**
@@ -99,32 +99,32 @@ streamlit run app.py
 **Use Cases**
 
 CHATALYSE is intended to support:
--Biological data analysis
+- Biological data analysis
 
--Transcriptomics workflows
+- Transcriptomics workflows
 
--Exploratory data analysis
+- Exploratory data analysis
 
--Scientific figure generation
+- Scientific figure generation
 
--Research report drafting
+- Research report drafting
 
--Hypothesis generation and refinement
+- Hypothesis generation and refinement
 
--AI-assisted scientific reasoning
+- AI-assisted scientific reasoning
 
 
 **Design Principles**
 
 CHATALYSE is based on several core principles:
 
--Researchers remain responsible for interpretation and decision-making.
+- Researchers remain responsible for interpretation and decision-making.
 
--AI should accelerate scientific workflows rather than replace critical thinking.
+- AI should accelerate scientific workflows rather than replace critical thinking.
 
--Transparency and reproducibility are essential.
+- Transparency and reproducibility are essential.
 
--Scientific outputs should remain reviewable, editable, and defensible.
+- Scientific outputs should remain reviewable, editable, and defensible.
   
 
 The goal is not fully automated science, but more efficient and better-supported scientific practice.
@@ -133,17 +133,17 @@ The goal is not fully automated science, but more efficient and better-supported
 
 Planned enhancements include:
 
--Additional bioinformatics workflows
+- Additional bioinformatics workflows
 
--Advanced statistical modules
+- Advanced statistical modules
 
--Expanded visualisation options
+- Expanded visualisation options
 
--Multi-agent analytical workflows
+- Multi-agent analytical workflows
 
--Enhanced reproducibility features
+- Enhanced reproducibility features
 
--Support for additional LLM providers
+- Support for additional LLM providers
   
 
 **Author**
@@ -155,17 +155,17 @@ Bristol Veterinary School
 
 Interests:
 
--Translational Biology
+- Translational Biology
 
--Computational Biology
+- Computational Biology
 
--Transcriptomics
+- Transcriptomics
 
--AI for Life Sciences
+- AI for Life Sciences
 
--Data Science
+- Data Science
 
--Scientific Software Development
+- Scientific Software Development
   
 
 **Project Origins**
